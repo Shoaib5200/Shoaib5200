@@ -33,7 +33,6 @@ I take pride in bridging the gap between **development and QA**, collaborating c
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
 | **Automation Framework** | Developed a robust Selenium-TestNG automation suite integrated with CI/CD pipelines. | Java, Selenium, TestNG, Maven |
-| **Mobile Testing Suite** | Built and executed Appium tests for Android & iOS apps, ensuring cross-platform coverage. | Appium, Java, TestNG |
 | **API Regression Suite** | Designed RESTful API regression testing scripts with automated reporting. | Postman, RestAssured, Java |
 | **Web QA Portal** | Tested a full-stack web application with frontend and backend integration. | Selenium, SQL, Jenkins |
 
@@ -75,7 +74,7 @@ I take pride in bridging the gap between **development and QA**, collaborating c
 
 <p align="center">
   <a href="mailto:shoaib.danish8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/shoaibdanish42/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shoaibdanish42/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Shoaib5200"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
