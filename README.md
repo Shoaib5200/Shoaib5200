@@ -2,13 +2,15 @@
 <h3 align="center">Software Quality Assurance Engineer | Automation | Manual | 7+ Years of Experience</h3>
 
 ---
+### 🧑‍💻 About Me
 
-### 🧑‍💻 About Me  
+I'm a Senior Business / Data Analyst with 7+ years of experience across Insurance, Healthcare, and Financial Services, with a strong technical background in software quality assurance and application development.
 
-I'm a passionate **Software Quality Assurance Engineer** with over **8 years of experience** in both **manual and automation testing**.  
-I specialize in designing, executing, and maintaining scalable automation frameworks and ensuring high-quality software delivery through meticulous manual and exploratory testing.  
+I specialize in business and data analysis, requirements elicitation, SQL-based data analysis, data validation, business process analysis, reporting, and User Acceptance Testing (UAT). I work closely with business stakeholders, product teams, developers, and QA teams to understand business needs, analyze data and processes, identify gaps, and translate requirements into actionable solutions.
 
-I take pride in bridging the gap between **development and QA**, collaborating closely with developers, product owners, and business teams to deliver exceptional user experiences.  
+My technical background includes SQL, Microsoft SQL Server, PostgreSQL, Excel, Power BI, Tableau, REST APIs, JavaScript, and web application technologies. I also have hands-on experience with software testing, automation, Agile/Scrum, and full-stack application development.
+
+I use GitHub to document technical projects, data-related work, testing solutions, and hands-on development experience.
 
 💡 **Core philosophy:** _“Quality is not an act, it’s a habit.”_  
 
@@ -16,15 +18,22 @@ I take pride in bridging the gap between **development and QA**, collaborating c
 
 ### 🧠 Core Skills  
 
-- 🧩 **Automation Tools:** Selenium, TestNG, JUnit, Cucumber  
-- ⚙️ **Programming Languages:** Java, JavaScript, SQL  
-- 🧰 **CI/CD & DevOps:** Jenkins, GitHub Actions, Maven, Docker (Basics)  
-- 📊 **Test Management:** Jira, Xray, Zephyr  
-- 🔍 **API Testing:** Postman  
-- 🌐 **Web Technologies:** HTML5, CSS3, JavaScript, XML  
-- 💾 **Databases:** MySQL, PostgreSQL, Oracle  
-- 🧪 **Manual Testing:** Regression, Smoke, UAT, Functional, Sanity Testing  
-- 🧠 **Agile & SDLC:** Scrum, Kanban, Sprint Planning, User Stories  
+- 📊 **Data & Analytics:** Data Analysis, Data Validation, Data Quality Analysis, Data Reconciliation, Data Warehouse Validation, KPI Analysis, Performance Analysis, Trend Analysis, Reporting, Ad Hoc Data Analysis
+- 🗄️ **SQL & Databases:** SQL, Microsoft SQL Server, PostgreSQL, MySQL, Oracle, Complex SQL Queries, Database Validation
+- 📈 **Business Intelligence & Visualization:** Power BI, Tableau, Business Intelligence, Data Visualization, Dashboard Reporting
+- 📝 **Business Analysis:** Requirements Elicitation, Requirements Analysis, Requirements Workshops, Business Requirements, Functional Requirements, User Stories, Acceptance Criteria
+- 🔄 **Business Process Analysis:** Business Process Modeling, Process Mapping, Workflow Analysis, Business Rules, Gap Analysis, Process Improvement, Data Flow Analysis
+- 👥 **Stakeholder Management:** Stakeholder Engagement, Cross-Functional Collaboration, Business & Technical Communication, Requirements Facilitation
+- 🧪 **Testing & Validation:** UAT, Functional Testing, Regression Testing, Smoke Testing, Sanity Testing, Data Testing, Defect Validation, Test Case Design
+- 🔍 **API Testing:** Postman, REST API Testing, API Validation, JSON, XML
+- 🤖 **Automation Tools:** Selenium, TestNG, JUnit, Cucumber
+- 💻 **Programming Languages:** Java, JavaScript, SQL
+- ⚙️ **CI/CD & DevOps:** Jenkins, GitHub Actions, Maven, Docker (Basics)
+- 📋 **Test & Project Management:** Jira, Xray, Zephyr, Confluence, Requirements Traceability Matrix (RTM)
+- 📐 **Process & Data Modeling:** BPMN, UML, Business Process Flows, Data Flow Diagrams
+- 📊 **Reporting & Productivity:** Microsoft Excel, Pivot Tables, Microsoft Visio, Microsoft Project, Microsoft Office
+- 🧠 **Agile & SDLC:** Agile, Scrum, SAFe, Kanban, Sprint Planning, Backlog Refinement, User Stories, SDLC
+- 🌐 **Web Technologies:** HTML5, CSS3, JavaScript, React.js, Node.js, Express.js
 
 ---
 
