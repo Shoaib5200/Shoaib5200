@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Shoaib Danish</h1>
-<h3 align="center">Software Quality Assurance Engineer | Automation | Manual | 7+ Years of Experience</h3>
+<h3 align="center">Senior Business Analyst / Data Analyst |  7+ Years of Experience</h3>
 
 ---
 ### 🧑‍💻 About Me
